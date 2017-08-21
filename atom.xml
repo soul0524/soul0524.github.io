@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://github.com/soul0524/"/>
   <updated>2017-08-21T09:27:34.608Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://github.com/soul0524/</id>
   
   <author>
     <name>soul</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>first article</title>
-    <link href="http://yoursite.com/2017/08/21/first-article/"/>
-    <id>http://yoursite.com/2017/08/21/first-article/</id>
+    <link href="https://github.com/soul0524/2017/08/21/first-article/"/>
+    <id>https://github.com/soul0524/2017/08/21/first-article/</id>
     <published>2017-08-21T09:27:34.000Z</published>
     <updated>2017-08-21T09:27:34.608Z</updated>
     
